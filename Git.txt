@@ -12,17 +12,4 @@ Spiderman
 PS5
 Xbox
 Dracula
-Tekken
-Mortal Kombat
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Music
-Sports
-=======
-HP
-Dell
->>>>>>> Stashed changes
-=======
-HP
-Dell
->>>>>>> Stashed changes
+
