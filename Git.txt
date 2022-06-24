@@ -12,11 +12,7 @@ Spiderman
 PS5
 Xbox
 Dracula
-<<<<<<< HEAD
 Castlevania
-=======
 Van Helsing
 Selena
 Blade
->>>>>>> variant
-
