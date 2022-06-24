@@ -12,4 +12,5 @@ Spiderman
 PS5
 Xbox
 Dracula
+Castlevania
 
