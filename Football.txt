@@ -10,3 +10,7 @@ Marseille
 Chelsea
 Tottenham
 Arsenal
+Bayern Munchen
+Inter Milan
+Ajax
+AC Milan
