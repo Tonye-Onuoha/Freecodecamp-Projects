@@ -2,3 +2,8 @@ Manchester United
 Liverpool
 Real Madrid
 Juventus
+PSG
+Lyon
+Monaco
+Lille
+Marseille
